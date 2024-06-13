@@ -4,7 +4,7 @@
     <div class="container mt-4">
         <div class="card shadow">
             <div class="card-header">
-                <h3>Data Point</h3>
+                <h3>Data Titik Wisata</h3>
             </div>
             <div class="card-body">
                 <table class="table table-boardered table-striped" id="example">
